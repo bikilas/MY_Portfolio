@@ -85,14 +85,16 @@ img {
   text-align: center;
 }
 .btn {
-    padding: 10px 80px;
-    background-color: #007bff;
+    padding: 10px 50px;
+    background-color:  #0056b3 ;
     color: white;
+    display: inline-block;
     text-decoration: none;
     border-radius: 5px;
+   font-size: 16px;
 }
 .btn:hover {
-    background-color: #0056b3;
+    background-color: #218838;
 }
 
 .section-title::after {
