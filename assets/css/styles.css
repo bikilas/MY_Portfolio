@@ -35,6 +35,7 @@
 }
 
 /*===== BASE =====*/
+
 *, ::before, ::after {
   box-sizing: border-box;
 }
@@ -83,6 +84,17 @@ img {
   margin-bottom: var(--mb-4);
   text-align: center;
 }
+.btn {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+.btn:hover {
+    background-color: #0056b3;
+}
+
 .section-title::after {
   position: absolute;
   content: "";
