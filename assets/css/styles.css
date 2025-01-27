@@ -516,7 +516,7 @@ img {
     width: 450px;
   }
 }
-.favorite {
+/* .favorite {
   display: grid;
   grid-template-columns: 2fr 2fr;
   grid-template-rows: min-content;
@@ -608,4 +608,4 @@ main.favorite {
   .favorite__sec1, .favorite__schedule {
       width: 100%;
   }
-}
+} */
